@@ -48,6 +48,7 @@ This project demonstrates strong fundamentals in front-end development, DOM mani
 
 ## 📂 Project Structure
 
+```
 Maktabetna/
 │
 ├── index.html
@@ -55,8 +56,17 @@ Maktabetna/
 ├── style.css
 ├── main.js
 ├── aboutus.js
+│
 ├── imgs/
+│   ├── 1.png
+│   ├── p1.jpg
+│   └── ...
+│
 └── bs/
+    ├── bootstrap.min.css
+    └── bootstrap.min.js
+```
+
 
 
 ---
